@@ -1,0 +1,6 @@
+[build]
+  publish = "."              # where index.html is
+  functions = "netlify/functions"   # serverless functions folder
+
+[functions]
+  node_bundler = "esbuild"   # makes deployment faster + lighter

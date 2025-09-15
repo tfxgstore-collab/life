@@ -1,0 +1,13 @@
+{
+  "name": "siato-mpesa",
+  "version": "1.0.0",
+  "description": "M-Pesa STK Push integration on Netlify",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'Open index.html in the browser'",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
